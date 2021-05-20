@@ -1,0 +1,109 @@
+body {
+    background-image: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#backlogin {
+    background: white;
+    width: 35%;
+    height: 350px;
+    border: 1px solid #d2d2d2;
+    border-radius: 5px;
+    margin-top: 150px;
+}
+
+@font-face {
+    src: url('font/Product Sans Regular.ttf');
+    font-family: Product Sans;
+}
+
+@font-face {
+    src: url('font/OpenSans-Light.ttf');
+    font-family: OpenSans-Light;
+}
+
+#backlogin form {
+    margin-top: 15px;
+    float: left;
+    padding: 5px;
+}
+
+#backlogin .inputa {
+    width: 90%;
+    margin-top: 1px;
+    height: 50px;
+    border: 0px;
+    border-bottom: 1px solid #6a82fb;
+    font-size: 16px;
+    font-family: OpenSans-Light;
+    background: transparent;
+}
+
+#backlogin .wed {
+    margin-top: 40px;
+    width: 45%;
+    height: 40px;
+    background: #6a82fb;
+    border: none;
+    color: white;
+    font-family: product sans;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+#backlogin h1 {
+    text-align: center;
+    padding: 5px;
+    color: #6a82fb;
+    font-family: Product Sans;
+}
+
+#backlogin hr {
+    width: 50%;
+    height: 4px;
+    border: none;
+    background: #6a82fb;
+}
+/*========================*/
+
+/*body{
+	margin-left:auto;
+	margin-right:auto;
+	width:400px;
+	background-image: url('../gambar/4banner.jpg');
+	background-size:cover;
+}
+#page{
+	border:10px solid;
+	height:auto;
+	background:rgba(0,0,0,0.5);
+	margin-top:80px;
+	border: 3px solid white;
+}
+#page li{
+	margin-top:0px;
+	list-style:none;
+	padding:18px;
+	background:rgba(255,0,0,0.7);
+	font-family:Cataneo BT;
+	font-weight:bold;
+	font-size:18px;
+	color:#FFF;
+}
+table{
+	margin-top:40px;
+	font-family:Times New Roman;
+	font-size:17px;
+	font-weight:bold;
+}
+input{
+	border:1px solid #F90047;
+	font-weight:bold;
+	background:rgba(255,255,255,0.05);
+	color:white;
+}
+	table tr td{
+	color:white;
+	font-weight:bold;
+}*/
